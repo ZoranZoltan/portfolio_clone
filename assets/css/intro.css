@@ -1,0 +1,11 @@
+#intro{
+    position: fixed;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #21222a;
+    color: #fff;
+    text-align: center;
+    z-index: 999999;
+ }
